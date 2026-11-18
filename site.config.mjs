@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://palmquay.kevin-c4h.workers.dev', // no trailing slash — confirm after first Cloudflare deploy
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'LxOy6ZUOVECz_G50ijhAmLbAMQaZWioxcyJdlC8w2XM', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
